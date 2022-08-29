@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539249372624",
+    "project_id": "movimientos2",
+    "storage_bucket": "movimientos2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539249372624:android:b860f8dd03bde2a03d9dd5",
+        "android_client_info": {
+          "package_name": "com.example.movimientos2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539249372624-utn9pjjbcn50pmom4c0n5cjcbp7v9ght.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4qnqUh_6YtP2u1wC8K8YXAOJVbCpwUeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539249372624-utn9pjjbcn50pmom4c0n5cjcbp7v9ght.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
